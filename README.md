@@ -16,11 +16,6 @@ Watch a demo of the app [https://www.loom.com/share/a36c0a3471d5462ca7ce196d6c2f
 - Detailed view for each contact showing phone, email, and address.
 - Ability to mark contacts as favorites.
 
-## Installation
- Clone the repository:
-   ```bash
-   git clone [https://github.com/SyedShahbaz120/ContactsDirectoryApp]
-
 Usage
 Launch the app to see the list of contacts.
 Tap on a contact to view their details.
@@ -29,3 +24,10 @@ Use the search bar to find specific contacts.
 
 Credits
 Author: Syed Shahbaz
+
+## Installation
+ Clone the repository:
+   ```bash
+   git clone [https://github.com/SyedShahbaz120/ContactsDirectoryApp]
+
+
