@@ -17,12 +17,13 @@ Watch a demo of the app [https://www.loom.com/share/a36c0a3471d5462ca7ce196d6c2f
 - Ability to mark contacts as favorites.
 
 Usage
-Launch the app to see the list of contacts.
-Tap on a contact to view their details.
-Use the toolbar buttons to add, edit, or reset contacts.
-Use the search bar to find specific contacts.
+- Launch the app to see the list of contacts.
+- Tap on a contact to view their details.
+- Use the toolbar buttons to add, edit, or reset contacts.
+- Use the search bar to find specific contacts.
 
 Credits
+
 Author: Syed Shahbaz
 
 ## Installation
